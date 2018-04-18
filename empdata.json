@@ -62,63 +62,63 @@
       "rating": "Distant",
       "date_met": "2009/10/14",
       "current_location": "London",
-      "phone_number": "359-437-1049"
+      "phone_number": "359-488-1493"
     },
     {
-      "name": "Colleen Hurst",
-      "nickname": "Javascript Developer",
+      "name": "Colleen Huggins",
+      "nickname": "Huggs",
       "rating": "$205,500",
       "date_met": "2009/09/15",
       "current_location": "San Francisco",
-      "phone_number": "2360"
+      "phone_number": "359-886-1044"
     },
     {
-      "name": "Dai Rios",
-      "nickname": "Personnel Lead",
+      "name": "Andrew Rios",
+      "nickname": "Andy",
       "rating": "$217,500",
       "date_met": "2012/09/26",
       "current_location": "Edinburgh",
-      "phone_number": "2290"
+      "phone_number": "425-487-1094"
     },
     {
-      "name": "Herrod Chandler",
-      "nickname": "Sales Assistant",
-      "rating": "$137,500",
+      "name": "Harumi Murakami",
+      "nickname": "Kafka",
+      "rating": "Very Good",
       "date_met": "2012/08/06",
-      "current_location": "San Francisco",
-      "phone_number": "9608"
-    },
-    {
-      "name": "Rhona Davidson",
-      "nickname": "Integration Specialist",
-      "rating": "$327,900",
-      "date_met": "2010/10/14",
       "current_location": "Tokyo",
-      "phone_number": "6200"
+      "phone_number": "359-444-1778"
     },
     {
-      "name": "Sonya Frost",
-      "nickname": "Software Engineer",
-      "rating": "$103,600",
+      "name": "Gabriel Marquez",
+      "nickname": "Gabo",
+      "rating": "Very Good",
+      "date_met": "2010/10/14",
+      "current_location": "Macondo",
+      "phone_number": "455-567-4995"
+    },
+    {
+      "name": "Sonya Claxton",
+      "nickname": "Tonya",
+      "rating": "Pretty Good",
       "date_met": "2008/12/13",
-      "current_location": "Edinburgh",
-      "phone_number": "1667"
+      "current_location": "Renton",
+      "phone_number": "206-466-6669"
     },
     {
-      "name": "Jena Gaines",
-      "nickname": "current_location Manager",
-      "rating": "$90,560",
+      "name": "Jan Smith",
+      "nickname": "Janna",
+      "rating": "Good",
       "date_met": "2008/12/19",
       "current_location": "London",
-      "phone_number": "3814"
+      "phone_number": "425-888-4549"
     },
     {
-      "name": "Quinn Flynn",
-      "nickname": "Support Lead",
-      "rating": "$342,000",
+      "name": "Mary Flynn",
+      "nickname": "Emm",
+      "rating": "Pretty Good",
       "date_met": "2013/03/03",
-      "current_location": "Edinburgh",
-      "phone_number": "9497"
+      "current_location": "Seattle",
+      "phone_number": "206-437-1060"
     }
   ]
 }
