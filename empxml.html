@@ -19,11 +19,11 @@
              $(xml).find('data').each(function(){  
               t.row.add( [
                 $(this).find('name').text(),
-                $(this).find('designation').text(),
-                $(this).find('office').text(),
-                $(this).find('extension').text(),
-                $(this).find('joining_date').text(),
-                $(this).find('salary').text()
+                $(this).find('nickname').text(),
+                $(this).find('rating').text(),
+                $(this).find('date_met').text(),
+                $(this).find('phone_number').text(),
+                $(this).find('current_location').text()
               ] ).draw( false );
              });
             }
@@ -37,22 +37,22 @@
     <thead>
         <tr>
             <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
-            <th>Salary</th>
+            <th>Nickname</th>
+            <th>Friendship Rating</th>
+            <th>Date Met</th>
+            <th>Current Location</th>
+            <th>Phone Number</th>
         </tr>
     </thead>
 
     <tfoot>
         <tr>
             <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
-            <th>Salary</th>
+            <th>Nickname</th>
+            <th>Friendship Rating</th>
+            <th>Date Met</th>
+            <th>Current Location</th>
+            <th>Phone Number</th>
         </tr>
     </tfoot>
   </table>
