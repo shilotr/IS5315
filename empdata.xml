@@ -1,123 +1,123 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-  <employees>
+  <contact_list>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <name>Andrew Everson</name>
+      <nickname>Lazy Andy</nickname>
+      <rating>Pretty Good</rating>
+      <date_met>2015/07/25</date_met>
+      <current_location>Tacoma</current_location>
+      <phone_number>253-433-4596</phone_number>
     </data>
     <data>
-      <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <name>Beth Robinson</name>
+      <nickname>Beth</nickname>
+      <rating>Besties</rating>
+      <date_met>2008/10/21</date_met>
+      <current_location>New York</current_location>
+      <phone_number>480-545-6699</phone_number>
     </data>
     <data>
-      <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <name>Ash Ketchum</name>
+      <nickname>Satoshi</nickname>
+      <rating>Distant</rating>
+      <date_met>2001/06/03</date_met>
+      <current_location>Osaka</current_location>
+      <phone_number>405-544-3495</phone_number>
     </data>
     <data>
-      <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <name>Ari Gold</name>
+      <nickname>Goldie</nickname>
+      <rating>Pretty Good</rating>
+      <date_met>2006/11/03</date_met>
+      <current_location>Tokyo</current_location>
+      <phone_number>540-596-5067</phone_number>
     </data>
     <data>
-      <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <name>Karl Junior</name>
+      <nickname>Kay</nickname>
+      <rating>Pretty Good</rating>
+      <date_met>2011/12/10</date_met>
+      <current_location>New York</current_location>
+      <phone_number>833-544-5044</phone_number>
     </data>
     <data>
-      <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <name>Shay Docker</name>
+      <nickname>Docker</nickname>
+      <rating>Pretty Good</rating>
+      <date_met>2016/11/13</date_met>
+      <current_location>Seattle</current_location>
+      <phone_number>637-455-6765</phone_number>
     </data>
     <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <name>Kelly Kelly</name>
+      <nickname>K Squared</nickname>
+      <rating>Very Good</rating>
+      <date_met>2002/03/29</date_met>
+      <current_location>Seattle</current_location>
+      <phone_number>622-444-5900</phone_number>
     </data>
     <data>
-      <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <name>Haley Comet</name>
+      <nickname>Haley</nickname>
+      <rating>Distant</rating>
+      <date_met>2009/10/14</date_met>
+      <current_location>London</current_location>
+      <phone_number>359-488-1493</phone_number>
     </data>
     <data>
-      <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <name>Colleen Huggins</name>
+      <nickname>Huggs</nickname>
+      <rating>Distant</rating>
+      <date_met>2009/09/15</date_met>
+      <current_location>San Francisco</current_location>
+      <phone_number>359-886-1044</phone_number>
     </data>
     <data>
-      <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <name>Andrew Rios</name>
+      <nickname>Andy</nickname>
+      <rating>Good</rating>
+      <date_met>2012/09/26</date_met>
+      <current_location>Edinburgh</current_location>
+      <phone_number>425-487-1094</phone_number>
     </data>
     <data>
-      <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
+      <name>Harumi Murakami</name>
+      <nickname>Kafka</nickname>
+      <rating>Very Good</rating>
+      <date_met>2012/08/06</date_met>
+      <current_location>Tokyo</current_location>
+      <phone_number>359-444-1778</phone_number>
     </data>
     <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
+      <name>Gabriel Marquez</name>
+      <nickname>Gabo</nickname>
+      <rating>Very Good</rating>
+      <date_met>2010/10/14</date_met>
+      <current_location>Macondo</current_location>
+      <phone_number>455-567-4995</phone_number>
     </data>
     <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
+      <name>Sonya Claxton</name>
+      <nickname>Tonya</nickname>
+      <rating>Pretty Good</rating>
+      <date_met>2008/12/13</date_met>
+      <current_location>Renton</current_location>
+      <phone_number>206-466-6669</phone_number>
     </data>
     <data>
-      <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
+      <name>Jan Smith</name>
+      <nickname>Janna</nickname>
+      <rating>Good</rating>
+      <date_met>2008/12/19</date_met>
+      <current_location>London</current_location>
+      <phone_number>425-888-4549</phone_number>
     </data>
     <data>
-      <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
-    </data>
-  </employees>
+      <name>Mary Flynn</name>
+      <nickname>Emm</nickname>
+      <rating>Pretty Good</rating>
+      <date_met>2013/03/03</date_met>
+      <current_location>Seattle</current_location>
+      <phone_number>206-437-1060</phone_number>
+    </data> 
+</contact_list>
